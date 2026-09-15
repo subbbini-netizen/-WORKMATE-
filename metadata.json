@@ -1,0 +1,7 @@
+{
+  "name": "WORKMATE - 업무관리 매니저",
+  "description": "직장인을 위한 캘린더, 일정 공유, 동업자 1:1 대화 및 태그 ID 기반 프로필 워크스페이스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
